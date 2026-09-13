@@ -1,0 +1,16 @@
+Filetype: IR signals file
+Version: 1
+# Generado con IR Frame Generator, herramienta independiente y no oficial.
+# Compatible con badges PixMob. No afiliado ni respaldado por PixMob / Eski Inc.
+# Estas tramas se calculan a partir de documentación pública del protocolo,
+# publicada bajo MIT por James Wang y Dani Weidman. Este proyecto no captura
+# señales ni analiza dispositivos: solo implementa lo que ya estaba documentado.
+# Uso solo con dispositivos propios o autorizados. No usar en eventos en directo
+# ni para interferir con espectáculos o equipos de terceros.
+# Verifica siempre con tu propio hardware antes de confiar en la salida.
+#
+name: rgb(240,0,220)
+type: raw
+frequency: 38029
+duty_cycle: 0.330000
+data: 710 6285 1394 710 1394 2104 710 710 710 710 710 710 1394 710 710 2787 710 1394 710 710 1394 2104 1394 710 710 1394 710 2104 1394 710 1394 2104 1394 1394 710 1394 710 1394 1394 710 710 100003
