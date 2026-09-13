@@ -1,0 +1,88 @@
+{
+  "generator": "IR Frame Generator (unofficial, PixMob-compatible)",
+  "disclaimer": "Generado con IR Frame Generator, herramienta independiente y no oficial. Compatible con badges PixMob. No afiliado ni respaldado por PixMob / Eski Inc. Estas tramas se calculan a partir de documentación pública del protocolo, publicada bajo MIT por James Wang y Dani Weidman. Este proyecto no captura señales ni analiza dispositivos: solo implementa lo que ya estaba documentado. Uso solo con dispositivos propios o autorizados. No usar en eventos en directo ni para interferir con espectáculos o equipos de terceros. Verifica siempre con tu propio hardware antes de confiar en la salida.",
+  "generatedAt": "2026-09-13T19:57:43.416Z",
+  "commands": [
+    {
+      "name": "rgb(224,0,240)",
+      "mode": "configurable",
+      "requestedColor": {
+        "r": 224,
+        "g": 0,
+        "b": 240
+      },
+      "quantizedColor": {
+        "r": 224,
+        "g": 0,
+        "b": 240
+      },
+      "logicalBytes": [
+        128,
+        0,
+        17,
+        0,
+        56,
+        60,
+        56,
+        63,
+        32
+      ],
+      "encodedBytes": [
+        128,
+        33,
+        106,
+        33,
+        54,
+        141,
+        54,
+        38,
+        89
+      ],
+      "bits": "10000000001100001000101011010000100011011001011000101101100011001001001101",
+      "carrierHz": 38381,
+      "prontoHex": "0000 006C 0014 0000 001B 00F0 0035 006B 001B 0050 001B 001B 001B 001B 0035 001B 001B 006B 001B 0050 0035 001B 0035 0035 001B 001B 0035 0050 001B 001B 0035 001B 0035 0050 0035 0035 001B 0035 001B 0035 0035 001B 001B 077F",
+      "rawTimingsUs": [
+        703,
+        6253,
+        1381,
+        2788,
+        703,
+        2084,
+        703,
+        703,
+        703,
+        703,
+        1381,
+        703,
+        703,
+        2788,
+        703,
+        2084,
+        1381,
+        703,
+        1381,
+        1381,
+        703,
+        703,
+        1381,
+        2084,
+        703,
+        703,
+        1381,
+        703,
+        1381,
+        2084,
+        1381,
+        1381,
+        703,
+        1381,
+        703,
+        1381,
+        1381,
+        703,
+        703,
+        49999
+      ]
+    }
+  ]
+}

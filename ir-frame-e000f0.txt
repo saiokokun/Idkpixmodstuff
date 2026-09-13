@@ -1,0 +1,15 @@
+# Generado con IR Frame Generator, herramienta independiente y no oficial.
+# Compatible con badges PixMob. No afiliado ni respaldado por PixMob / Eski Inc.
+# Estas tramas se calculan a partir de documentación pública del protocolo,
+# publicada bajo MIT por James Wang y Dani Weidman. Este proyecto no captura
+# señales ni analiza dispositivos: solo implementa lo que ya estaba documentado.
+# Uso solo con dispositivos propios o autorizados. No usar en eventos en directo
+# ni para interferir con espectáculos o equipos de terceros.
+# Verifica siempre con tu propio hardware antes de confiar en la salida.
+
+## rgb(224,0,240)
+rgb(224, 0, 240)   modo: configurable
+bytes lógicos:    80 00 11 00 38 3C 38 3F 20
+bytes codificados: 80 21 6A 21 36 8D 36 26 59
+bits (74): 10000000001100001000101011010000100011011001011000101101100011001001001101
+pronto: 0000 006C 0014 0000 001B 00F0 0035 006B 001B 0050 001B 001B 001B 001B 0035 001B 001B 006B 001B 0050 0035 001B 0035 0035 001B 001B 0035 0050 001B 001B 0035 001B 0035 0050 0035 0035 001B 0035 001B 0035 0035 001B 001B 077F
